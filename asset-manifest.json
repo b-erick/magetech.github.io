@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c46b3efa.chunk.css",
+    "main.js": "/static/js/main.eb165d4c.chunk.js",
+    "main.js.map": "/static/js/main.eb165d4c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a3f860bf.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a3f860bf.js.map",
+    "static/css/2.7987459a.chunk.css": "/static/css/2.7987459a.chunk.css",
+    "static/js/2.7891e107.chunk.js": "/static/js/2.7891e107.chunk.js",
+    "static/js/2.7891e107.chunk.js.map": "/static/js/2.7891e107.chunk.js.map",
+    "static/js/3.913b10fd.chunk.js": "/static/js/3.913b10fd.chunk.js",
+    "static/js/3.913b10fd.chunk.js.map": "/static/js/3.913b10fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c2a41a9371a619ab4969ecb633f7b376.js": "/precache-manifest.c2a41a9371a619ab4969ecb633f7b376.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7987459a.chunk.css.map": "/static/css/2.7987459a.chunk.css.map",
+    "static/css/main.c46b3efa.chunk.css.map": "/static/css/main.c46b3efa.chunk.css.map",
+    "static/media/arte-logo.jpg": "/static/media/arte-logo.22f890ae.jpg",
+    "static/media/bkg-logo.svg": "/static/media/bkg-logo.9b5dcf86.svg",
+    "static/media/logo-icon.svg": "/static/media/logo-icon.71f733c4.svg",
+    "static/media/mobile-3.svg": "/static/media/mobile-3.e33f5b79.svg",
+    "static/media/orcamento.svg": "/static/media/orcamento.c490f2e5.svg",
+    "static/media/platform.svg": "/static/media/platform.140ec533.svg",
+    "static/media/site.svg": "/static/media/site.26e9ada6.svg"
+  }
+}
